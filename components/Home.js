@@ -5,7 +5,6 @@ import { faCircleXmark } from '@fortawesome/free-solid-svg-icons';
 import Movie from './Movie';
 import 'antd/dist/antd.css';
 import styles from '../styles/Home.module.css';
-const fetch = require('node-fetch');
 
 
 function Home() {
